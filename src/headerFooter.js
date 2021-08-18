@@ -5,8 +5,8 @@ const containerFooter = document.querySelector("footer");
     <img
     class="logo"
     src="img/logo.png"
-    alt="동아리"
-    onclick="javascript:location.href='club.html'"
+    alt="logo"
+    onclick="javascript:location.href='index.html'"
     />
     <ul class="nav">
       <li class="nav-item">
