@@ -24,21 +24,6 @@
   --animation-duration: 300ms;
 }
 
-body {
-  margin: 0;
-
-  /* background image fixed full screen */
-  background: url(img/desert.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-
-  /* background-image: url(img/desert.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed; default: scroll */
-}
-
 #login-form {
   position: absolute;
   position: fixed;
@@ -157,7 +142,7 @@ main .purple > h1 {
 }
 
 .order__content {
-  font-size: 16px;
+  font-size: 16.5px;
 }
 
 .items {
